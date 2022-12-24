@@ -1,0 +1,14 @@
+.item-btns {
+  float: right;
+}
+
+.item-check {
+  height: 25px;
+  width: 25px;
+}
+
+.item-list {
+  font-size: 25px;
+  height: 70px;
+  padding: 5px 10px;
+}

@@ -1,0 +1,24 @@
+.form-div {
+  width: 80%;
+  margin: auto;
+}
+
+.form-input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 2% auto;
+  display: inline-block;
+  border: 1px solid #ccc;
+  font-size: 20px;
+}
+
+.form-btn {
+  border: none;
+  width: 80%;
+  margin: 2% auto;
+  display: block;
+  background-color: black;
+  padding: 12px 20px;
+  color: white;
+  cursor: pointer;
+}
